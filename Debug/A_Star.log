@@ -1,0 +1,8 @@
+﻿  A_Star.cpp
+c:\users\jomex\downloads\a_star\a_star\a_star.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\jomex\downloads\a_star\a_star\a_star.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\jomex\downloads\a_star\a_star\a_star.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\jomex\downloads\a_star\a_star\a_star.cpp(265): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jomex\downloads\a_star\a_star\a_star.cpp(353): warning C4309: '=': truncation of constant value
+  A_Star.vcxproj -> C:\Users\Jomex\Downloads\A_Star\Debug\A_Star.exe
+  A_Star.vcxproj -> C:\Users\Jomex\Downloads\A_Star\Debug\A_Star.pdb (Full PDB)
